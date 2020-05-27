@@ -134,7 +134,7 @@ audio messages , create , join and leave chat rooms , and can send files to othe
 ## Functionality
 
 * Create Chat Room - *press  `create room`* , a window pops-up , enter your room-name  and *press `ok`* to create a new chat room.
-* Join Chat Room - *press  `join room`* , a windo pops-up , enter the *`room-id`* of the room , you want to enter and *press `ok`*.
+* Join Chat Room - *press  `join room`* , a window pops-up , enter the *`room-id`* of the room , you want to enter and *press `ok`*.
 * List Chat Room(s) - *press  `list rooms`* , to see all the current *Chat rooms* with their *room-id* in the paranthesis.
 * List User(s) - *press  `list users`* , to see all the current users connected to that server .
 * Start Recording - *press  `start recording`*  , to start audio recording .
